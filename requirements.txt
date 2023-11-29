@@ -1,0 +1,6 @@
+pip install SpeechRecognition
+pip install PyAudio
+mitmproxy
+
+markupsafe==2.0.1
+PyQtWebEngine
